@@ -1,7 +1,8 @@
-# android-studio-shortcut-key
+# Android Studio Shortcut Key
 
 | 概要            | キー           | 備考           |
 | ------------- |-------------|-------------|
+| 大、小文字変換 | Cmd + Shift + u |-| 
 | 自動フォーマット | Cmd + Opt + l |-| 
 | 自動インポート | Ctr + Opt + o |-| 
 | 単語選択 | Opt + 上矢印 |-| 
