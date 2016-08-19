@@ -17,3 +17,15 @@
 | ファイルで使用している変数のハイライト | Ctr + Shift + F7 |-| 
 | クイック定義確認 | Opt + Space |-| 
 | オートジェネレーター | Cmd + Opt + t |-| 
+
+# Android adb
+
+| 内容            | コマンド           | 備考           |
+| ------------- |-------------|-------------|
+| ログ出力 | adb logcat |-| 
+| ログをファイルに出力 | adb logcat > file.log |-|
+| 時間を含めたログをファイルに出力 | adb logcat -v time > file.log |-|
+| adbの停止 | adb kill-server |-|
+| adbの起動 | adb start-server |-|
+
+
