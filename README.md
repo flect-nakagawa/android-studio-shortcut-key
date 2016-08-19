@@ -27,5 +27,6 @@
 | 時間を含めたログをファイルに出力 | adb logcat -v time > file.log |-|
 | adbの停止 | adb kill-server |-|
 | adbの起動 | adb start-server |-|
+| デバイスのファイル取得 | adb pull /sdcard/Download/ |-| 
 
 
