@@ -21,6 +21,7 @@
 | ファイルで使用している変数のハイライト | Ctr + Shift + F7 |-| 
 | クイック定義確認 | Opt + Space |-| 
 | オートジェネレーター | Cmd + Opt + t |-| 
+| 引数補完 | Ctr + Shift + Space |-| 
 
 # Android adb
 
